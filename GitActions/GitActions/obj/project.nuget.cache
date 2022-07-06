@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U654thVRuge5BXmgcnsOW+mB8PKq8VdgOiJo1uv6u3WqjyhDf/XWL+8zpy2frE/UKge2baXWuMoOR4y/l0xmCQ==",
+  "dgSpecHash": "ghc0dYbuRJCB8rQrkOvGLI2JbZH4HuyUGeKB0LSD+Vwg3a3SQCCldqRSzdT5t9b9I5i8HBN0OMf9XbSMaIhkHg==",
   "success": true,
-  "projectFilePath": "D:\\Практика2022\\Repositories\\GitHubActionsLearn\\GitActions\\GitActions\\GitActions.csproj",
+  "projectFilePath": "D:\\Практика2022\\Repositories\\GitHubActionsLearn\\gitActions\\GitActions\\GitActions.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MaratElagin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\MaratElagin\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

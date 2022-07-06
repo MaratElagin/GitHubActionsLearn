@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Практика2022\\Repositories\\GitHubActionsLearn\\GitActions\\GitActions\\GitActions.csproj": {}
+    "D:\\Практика2022\\Repositories\\GitHubActionsLearn\\gitActions\\GitActions\\GitActions.csproj": {}
   },
   "projects": {
-    "D:\\Практика2022\\Repositories\\GitHubActionsLearn\\GitActions\\GitActions\\GitActions.csproj": {
+    "D:\\Практика2022\\Repositories\\GitHubActionsLearn\\gitActions\\GitActions\\GitActions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Практика2022\\Repositories\\GitHubActionsLearn\\GitActions\\GitActions\\GitActions.csproj",
+        "projectUniqueName": "D:\\Практика2022\\Repositories\\GitHubActionsLearn\\gitActions\\GitActions\\GitActions.csproj",
         "projectName": "GitActions",
-        "projectPath": "D:\\Практика2022\\Repositories\\GitHubActionsLearn\\GitActions\\GitActions\\GitActions.csproj",
+        "projectPath": "D:\\Практика2022\\Repositories\\GitHubActionsLearn\\gitActions\\GitActions\\GitActions.csproj",
         "packagesPath": "C:\\Users\\MaratElagin\\.nuget\\packages\\",
-        "outputPath": "D:\\Практика2022\\Repositories\\GitHubActionsLearn\\GitActions\\GitActions\\obj\\",
+        "outputPath": "D:\\Практика2022\\Repositories\\GitHubActionsLearn\\gitActions\\GitActions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
